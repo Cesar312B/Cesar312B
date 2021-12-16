@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 Santiago Suárez.
 Graduado de la Carrera de Informatica en la Universidad Politecnica Estatal del Carchi-Ecuador 
 Desarrollador web con el framework Symfony(PHP).
-Manejo de bases de datos sql server, mysql, postgresql, sql lite 
+Manejo de bases de datos sql server, mysql, postgresql, sql lite.
 Html, css, javascript, ajax 
